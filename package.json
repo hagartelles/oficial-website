@@ -1,0 +1,23 @@
+{
+  "name": "projeto2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hagartelles/oficial-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hagartelles/oficial-website/issues"
+  },
+  "homepage": "https://github.com/hagartelles/oficial-website",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
